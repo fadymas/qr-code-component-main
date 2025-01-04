@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/bootstrap-flexbox-mobile-first-workflow-bL4BHkXTwK](https://www.frontendmentor.io/solutions/bootstrap-flexbox-mobile-first-workflow-bL4BHkXTwK)
 - Live Site URL: [https://fadymas.github.io/qr-code-component-main/](https://fadymas.github.io/qr-code-component-main/)
 
 ## My process
